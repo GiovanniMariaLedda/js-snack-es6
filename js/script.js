@@ -21,5 +21,30 @@ console.log('JS OK');
 //! Raccolta Dati
 
 //! Elaborazione 
+const bicycles = [
+
+ bike1 = {
+    name:'bike1',
+    weight: 3,
+    unitOfMeasurement: 'kg',
+} , 
+ bike2 = {
+    name:'bike2',
+    weight: 2,
+    unitOfMeasurement: 'kg',
+} , 
+ bike3 = {
+    name:'bike3',
+    weight: 5,
+    unitOfMeasurement: 'kg',
+} , 
+ bike4 = {
+    name:'bike4',
+    weight: 4,
+    unitOfMeasurement: 'kg',
+}
+]
+
+
 
 //! Output
